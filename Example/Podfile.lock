@@ -1,0 +1,16 @@
+PODS:
+  - LPushSDK (0.1.0)
+
+DEPENDENCIES:
+  - LPushSDK (from `../`)
+
+EXTERNAL SOURCES:
+  LPushSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LPushSDK: 6be7b6c4fef09e48b65d140e661692afc811052f
+
+PODFILE CHECKSUM: cce106db5d597ce9a703736b08ac812aa7ddd593
+
+COCOAPODS: 1.10.1
